@@ -1,13 +1,29 @@
 {
     "cfe31a9d-91ff-4a47-b5ee-434f4d64415e": {
-        "titulo": "Nueva Consulta",
+        "titulo": "Hola",
         "mensajes": [
             {
                 "role": "assistant",
                 "content": "¡Hola! Soy tu asesor inmobiliario. ¿En qué puedo ayudarte?"
+            },
+            {
+                "role": "user",
+                "content": "Hola"
+            },
+            {
+                "role": "assistant",
+                "content": "¡Hola! Soy tu Asesor Inmobiliario Senior. Estoy aquí para ayudarte con cualquier pregunta que tengas sobre el mercado inmobiliario español, leyes, contratos o estrategias de inversión. ¿En qué puedo asistirte hoy?\n"
+            },
+            {
+                "role": "user",
+                "content": "Como estas"
+            },
+            {
+                "role": "assistant",
+                "content": "¡Estoy bien, gracias por preguntar! Estoy aquí para ayudarte con cualquier consulta relacionada con el mercado inmobiliario español. ¿En qué puedo asistirte hoy?"
             }
         ],
-        "nombre_fijado": false
+        "nombre_fijado": true
     },
     "8a25d58e-893a-47c0-949a-315bd446eade": {
         "titulo": "klk",
