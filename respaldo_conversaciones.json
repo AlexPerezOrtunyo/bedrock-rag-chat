@@ -1,0 +1,30 @@
+{
+    "cfe31a9d-91ff-4a47-b5ee-434f4d64415e": {
+        "titulo": "Nueva Consulta",
+        "mensajes": [
+            {
+                "role": "assistant",
+                "content": "¡Hola! Soy tu asesor inmobiliario. ¿En qué puedo ayudarte?"
+            }
+        ],
+        "nombre_fijado": false
+    },
+    "8a25d58e-893a-47c0-949a-315bd446eade": {
+        "titulo": "klk",
+        "mensajes": [
+            {
+                "role": "assistant",
+                "content": "¡Hola! Soy tu asesor inmobiliario. ¿En qué puedo ayudarte?"
+            },
+            {
+                "role": "user",
+                "content": "klk"
+            },
+            {
+                "role": "assistant",
+                "content": "Entendido. Como tu asesor inmobiliario, estoy procesando tu solicitud: 'klk'."
+            }
+        ],
+        "nombre_fijado": true
+    }
+}
