@@ -1,44 +1,60 @@
 {
-    "cfe31a9d-91ff-4a47-b5ee-434f4d64415e": {
-        "titulo": "Hola",
+    "c5337c19-d12f-46dd-9e77-29c89290118a": {
+        "titulo": "casa",
         "mensajes": [
             {
                 "role": "assistant",
-                "content": "¡Hola! Soy tu asesor inmobiliario. ¿En qué puedo ayudarte?"
+                "content": "Hola, soy tu asesor PAC. ¿En qué puedo ayudarte?"
             },
             {
                 "role": "user",
-                "content": "Hola"
+                "content": "casa"
             },
             {
                 "role": "assistant",
-                "content": "¡Hola! Soy tu Asesor Inmobiliario Senior. Estoy aquí para ayudarte con cualquier pregunta que tengas sobre el mercado inmobiliario español, leyes, contratos o estrategias de inversión. ¿En qué puedo asistirte hoy?\n"
-            },
-            {
-                "role": "user",
-                "content": "Como estas"
-            },
-            {
-                "role": "assistant",
-                "content": "¡Estoy bien, gracias por preguntar! Estoy aquí para ayudarte con cualquier consulta relacionada con el mercado inmobiliario español. ¿En qué puedo asistirte hoy?"
+                "content": "\n\nLas Villas de la Font ofrecen una variedad de modelos de casas diseñadas para proporcionar un hogar acogedor y luminoso. Los modelos disponibles incluyen:\n\n- Modelo 1: 3 dormitorios, 2 baños, 1 aseo, con opción a sótano.\n- Modelo 2: 3 dormitorios, 2 baños, 1 aseo, con opción a sótano.\n- Modelo 3: 4 dormitorios, 3 baños.\n\nEstas villas destacan por su arquitectura funcional, que optimiza la relación entre interiores y exteriores, y por su diseño elegante y moderno. Cada modelo está diseñado para ofrecer una perfecta armonía entre espacios, con un cuidadoso estudio de la luz y las proporciones, proporcionando una sensación de amplitud, bienestar y calidez.\n\nAdemás, las villas cuentan con características como piscinas privadas, terrazas, cenadores, y zonas ajardinadas, que permiten disfrutar del aire libre con total privacidad. La luz natural juega un papel importante en el diseño, con tragaluces y cubiertas que aseguran una distribución uniforme de la luz.\n\n\n\n\n"
             }
         ],
         "nombre_fijado": true
     },
-    "8a25d58e-893a-47c0-949a-315bd446eade": {
-        "titulo": "klk",
+    "4c949464-5c7c-41a6-834f-56f2bdc68971": {
+        "titulo": "hola , en que ambitos me podri",
         "mensajes": [
             {
                 "role": "assistant",
-                "content": "¡Hola! Soy tu asesor inmobiliario. ¿En qué puedo ayudarte?"
+                "content": "Hola, soy tu asesor PAC. ¿En qué puedo ayudarte?"
             },
             {
                 "role": "user",
-                "content": "klk"
+                "content": "hola , en que ambitos me podrias ayudar ?"
             },
             {
                 "role": "assistant",
-                "content": "Entendido. Como tu asesor inmobiliario, estoy procesando tu solicitud: 'klk'."
+                "content": "Puedo ayudarte en varios ámbitos relacionados con el mercado inmobiliario español, incluyendo:\n\n- **Gestión de Propiedades**: Información sobre la asistencia a juntas de propietarios y representación legal (gu4G).\n- **Préstamos Hipotecarios**: Detalles sobre el pago de préstamos, periodos de carencia, y documentos necesarios para solicitar un préstamo (7PYP, HpYY).\n- **Asistencia Fiscal**: Herramientas y recursos para resolver dudas sobre el IVA y otros impuestos relacionados con la propiedad (K6Lw).\n- **Asesoramiento Financiero**: Consejos sobre cómo elegir la mejor fórmula de préstamo y dónde acudir en caso de dudas o quejas (xRy4).\n\nSi tienes alguna pregunta específica en cualquiera de estos ámbitos, estaré encantado de ayudarte.\n"
+            },
+            {
+                "role": "user",
+                "content": "hablame sobre la ley horizonta "
+            },
+            {
+                "role": "assistant",
+                "content": "\n\nLa \"ley horizontal\" se refiere a la **Ley 49/1960, de 21 de julio, sobre propiedad horizontal**. Esta ley regula la forma en que se gestionan y administran las comunidades de propietarios en España. Establece los derechos y obligaciones de los propietarios de viviendas y locales en régimen de propiedad horizontal, así como las normas para la administración y mantenimiento de los elementos comunes de un edificio.\n\nAlgunos puntos clave de esta ley incluyen:\n- La existencia de elementos privativos (pisos, locales, garajes, trasteros, viviendas unifamiliares, etc.) y elementos comunes (espacios y servicios compartidos por todos los propietarios).\n- La obligación de los propietarios de permitir el acceso a sus viviendas para reparaciones del inmueble.\n- La necesidad de informar al comprador sobre las servidumbres que graven la finca antes de su adquisición.\n\nEsta ley es fundamental para la gestión y convivencia en comunidades de propietarios.\n\n\n\n"
+            },
+            {
+                "role": "user",
+                "content": "me puedes ayudar , tengo problemas con el casero "
+            },
+            {
+                "role": "assistant",
+                "content": "\n\nSi tienes problemas con tu casero (landlord), aquí hay algunos pasos que puedes seguir para resolverlos:\n\n1. **Revisa el Contrato de Alquiler**: Asegúrate de entender los términos y condiciones acordados en el contrato de arrendamiento. Esto incluye la duración del contrato, las responsabilidades de ambas partes, y cualquier cláusula relacionada con reparaciones o conflictos.\n\n2. **Comunícate con tu Casero**: Intenta resolver el problema directamente con tu casero. Explícale claramente la situación y busca una solución mutuamente beneficiosa.\n\n3. **Documenta Todo**: Mantén un registro de todas las comunicaciones y acuerdos con tu casero. Esto puede ser útil si el problema escala y necesitas evidencia.\n\n4. **Conoce tus Derechos**: Infórmate sobre las leyes de alquiler en tu área. En España, la Ley de Arrendamientos Urbanos (LAU) protege los derechos de los inquilinos y establece las obligaciones de los arrendadores.\n\n5. **Busca Ayuda**: Si no puedes resolver el problema por tu cuenta, considera buscar ayuda de una asociación de inquilinos o un abogado especializado en derecho inmobiliario.\n\nRecuerda que es importante abordar los problemas de manera constructiva y documentar todas las interacciones para proteger tus derechos.\n\n\n"
+            },
+            {
+                "role": "user",
+                "content": "podrias decirme que hora es ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Lo siento, pero como Asesor Inmobiliario Senior, mi función es ayudarte con preguntas relacionadas al mercado inmobiliario español, leyes, contratos y estrategias inmobiliarias. No puedo proporcionar información sobre la hora actual. Por favor, formula una pregunta relacionada con mi área de expertise."
             }
         ],
         "nombre_fijado": true
