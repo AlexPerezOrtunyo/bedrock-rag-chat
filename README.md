@@ -1,5 +1,5 @@
 # bedrock-rag-chat
-Chatbot con Amazon Bedrock que responde usando archivos subidos
+PAC: Asistente Inmobiliario Inteligente con RAG y AWS Bedrock
 
 # 🧠 Bedrock RAG Chat: Inteligencia Artificial sobre Documentos Propios
 
